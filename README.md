@@ -70,10 +70,5 @@ By analyzing profitability, trends, and regional performance, the dashboard prov
 ---
 
 ## ⬇️ SQL Queries / Dashboard
-You can view the SQL queries and download the dashboard [here](./files/call-center-dashboard.pbix).
-
-
-
-
-You can view the SQL queries and download the dashboard here.
+You can view the SQL queries and download the dashboard [here](file/international-fmcg.html).
 
