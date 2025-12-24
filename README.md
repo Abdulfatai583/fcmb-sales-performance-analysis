@@ -1,7 +1,7 @@
 # 📈 International FMCG Sales & Profitability Insights Dashboard
 
 ## 📊 Dashboard Preview
-![fmcg-sales-dashboard](.image/international-fmcg.png) <!-- Replace with your actual image path -->
+![fmcg-sales-dashboard](image/international-fmcg.png) <!-- Replace with your actual image path -->
 
 ## 📌 Project Overview
 This project analyzes international FMCG sales data to evaluate profitability, regional performance, and cost efficiency across multiple markets.  
