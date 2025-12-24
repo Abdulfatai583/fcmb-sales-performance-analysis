@@ -3,6 +3,13 @@
 ## 📊 Dashboard Preview
 ![fmcg-sales-dashboard](image/international-fmcg.png) <!-- Replace with your actual image path -->
 
+## ⬇️ SQL Queries / Dashboard
+You can view the SQL queries and download the dashboard [here](file/international-fmcg.html).
+
+## 🌐 Portfolio Link
+You can view this project as part of my portfolio here:  
+👉 https://abdulfatai583.github.io
+
 ## 📌 Project Overview
 This project analyzes international FMCG sales data to evaluate profitability, regional performance, and cost efficiency across multiple markets.  
 The objective is to identify sales trends, high-performing regions, and opportunities for cost optimization using SQL-based analysis.
@@ -68,7 +75,4 @@ This project demonstrates how SQL can be used to transform FMCG sales data into 
 By analyzing profitability, trends, and regional performance, the dashboard provides a foundation for **revenue growth, cost optimization, and strategic planning**.
 
 ---
-
-## ⬇️ SQL Queries / Dashboard
-You can view the SQL queries and download the dashboard [here](file/international-fmcg.html).
 
