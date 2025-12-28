@@ -4,7 +4,7 @@
 ![fmcg-sales-dashboard](image/international-fmcg.png) <!-- Replace with your actual image path -->
 
 ## ⬇️ SQL Queries / Dashboard
-You can view the SQL queries and download the dashboard [here](file/international-fmcg.html).
+You can view the SQL queries and download the dashboard [here](international-fmcg.html).
 
 ## 🌐 Portfolio Link
 You can view this project as part of my portfolio here:  
