@@ -1,13 +1,6 @@
 # 📈 International FMCG Sales & Profitability Insights Dashboard
 
-## 📊 Dashboard Preview
-![fmcg-sales-dashboard](image/international-fmcg.png) <!-- Replace with your actual image path -->
-
-## ⬇️ SQL Queries / Dashboard
-You can view the SQL queries and download the dashboard [here](international-fmcg.html).
-
-## 🌐 Portfolio Link
-You can view this project as part of my portfolio here:  
+## 🌐The full interactive dashboard, visuals, and project are avaliable here 
 👉 https://abdulfatai583.github.io
 
 ## 📌 Project Overview
