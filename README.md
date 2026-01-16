@@ -1,72 +1,78 @@
-# 📈 International FMCG Sales & Profitability Insights Dashboard
+# 🍺 International FMCG Sales & Profit Analysis Dashboard
 
-## 🌐  Live demo & screenshots! 
-The full interactive dashboard, visuals, and project are avaliable here 
-👉 https://abdulfatai583.github.io
-
-## 📌 Project Overview
-This project analyzes international FMCG sales data to evaluate profitability, regional performance, and cost efficiency across multiple markets.  
-The objective is to identify sales trends, high-performing regions, and opportunities for cost optimization using SQL-based analysis.
-
-The dashboard is designed to help **business analysts, managers, and decision-makers** quickly understand sales performance, profitability, and regional trends to support strategic growth planning.
+## 📌 TL;DR
+- Analyzed **three years of FMCG sales data** across **Anglophone & Francophone West African countries**  
+- Built a **SQL-driven insights report** for breweries and malt brands  
+- Identified **top-performing countries, brands, regions, and sales reps**  
+- Delivered **data-driven recommendations** to optimize profit, brand promotion, and regional sales strategies  
 
 ---
 
-## 📊 Dataset Summary
-The dataset contains detailed sales records from FMCG markets, including:
+## 🌐 Project Overview
+This project focuses on understanding **profit trends, brand performance, and consumer preferences** in West Africa for an international FMCG company.  
+By leveraging **SQL queries on a multi-year dataset**, the analysis supports **strategic decisions for marketing, sales promotions, and inventory planning**.
 
-- Product categories and SKUs  
-- Sales volume and revenue  
-- Profit margins and costs  
-- Region and country information  
-- Time-based attributes (months, quarters, years)  
+The report/dashboard enables **territory managers and brand managers** to make informed decisions that maximize profit and optimize brand presence.
 
 ---
 
-## 🧹 Data Preparation
-Data preparation and transformation were carried out using **SQL** and spreadsheet tools, including:
-
-- Cleaning and standardizing sales and cost data  
-- Handling missing values and inconsistent entries  
-- Creating calculated fields for revenue, profit, and margin metrics  
-- Aggregating sales by region, product, and time period  
-- Structuring the data for reporting and visualization in dashboards  
+## 📊 Data Overview
+- **Total Records:** Multi-year transactional dataset (2017–2019)  
+- **Geography:** Nigeria, Ghana, Senegal, Togo, Benin (Anglophone & Francophone territories)  
+- **Metrics:** Profit, Quantity Sold  
+- **Attributes:** Country, Region, Brand, Month, Year, Sales Rep  
 
 ---
 
-## 🔍 Key Findings & Insights
+## 🔍 Key Findings – Business Insights
+1. **Territory Profit Comparison**  
+   - Francophone vs Anglophone territories analyzed for profit trends  
+   - **Francophone countries contributed significantly to total profit**, guiding regional strategy  
 
-### Overall Metrics
-- **Total Revenue:** [Insert total revenue here]  
-- **Highest Revenue Regions:** Contributed **60% of total sales**  
-- **Top Performing Products:** Identified based on revenue and profit margin  
-- **Profit Margin Trends:** Varied significantly by product category, highlighting high-cost items  
+2. **Country & Year Performance**  
+   - **Nigeria recorded the highest overall beer consumption**  
+   - **2019 was the most profitable year**, while months like **December 2018** had lower profits  
 
-### Regional & Product Insights
-- Regional analysis revealed seasonal sales fluctuations across markets  
-- High-performing products and regions were identified for targeted growth  
-- Low-margin products highlighted opportunities for cost optimization  
+3. **Brand Performance Insights**  
+   - **Budweiser led beer sales across Nigeria and Senegal**  
+   - Top-performing brands in Francophone countries (2018–2019) informed targeted promotions  
+
+4. **Regional & Sales Rep Analysis**  
+   - Budweiser consumption varied across Nigerian regions, helping allocate marketing resources efficiently  
+   - Top sales reps identified for performance-based incentives  
+
+5. **Monthly Profit Trends & Consumption Patterns**  
+   - Monthly profit percentages in 2019 calculated to optimize production and promotions  
+   - Highlighted low-profit months for targeted marketing initiatives  
 
 ---
 
-## 💡 Recommendations
-- Focus marketing and sales efforts on top-performing regions and products  
-- Investigate low-margin products to optimize cost structures  
-- Plan inventory and supply chain around seasonal sales patterns  
-- Use dashboards for continuous monitoring of sales, profit, and regional performance  
+## 💡 Data-Driven Recommendations
+- Focus marketing on **Francophone territories** and Nigeria for **profit maximization**  
+- Promote **Budweiser and top malt brands** in underperforming regions  
+- Implement **promotions during low-profit months** to stabilize revenue  
+- Reward top-performing **sales representatives** to increase productivity  
+- Tailor products to **regional consumption patterns** for new launches  
 
 ---
 
 ## 🛠 Tools & Technologies
-- **SQL:** Data extraction, aggregation, and analysis  
-- **Excel / CSV:** Source data inspection  
-- **Power BI (optional):** Dashboard visualization of SQL results  
+- **SQL** – Data extraction, aggregation, and complex queries  
+- **Excel / Pivot Tables** – Quick verification and exploratory analysis  
+- **Power BI / Tableau (optional)** – Visualization for decision-making  
 
 ---
 
 ## ✅ Conclusion
-This project demonstrates how SQL can be used to transform FMCG sales data into actionable insights.  
-By analyzing profitability, trends, and regional performance, the dashboard provides a foundation for **revenue growth, cost optimization, and strategic planning**.
+This project shows how **multi-year FMCG data can be turned into actionable business insights**.  
+By analyzing **territories, brands, regions, months, and sales reps**, decision-makers can **optimize profit, allocate resources, and plan marketing strategies** effectively.
 
 ---
 
+
+## 📫 Contact
+**Aliu Abdulfatai**  
+📧 aliuabdulfatai5@gmail.com  
+📞 +234 701 813 4480  
+🔗 LinkedIn: [linkedin.com/in/aliu-abdul-fatai-17366839a](https://linkedin.com/in/aliu-abdul-fatai-17366839a)  
+🔗 GitHub: [github.com/abdulfatai583](https://github.com/abdulfatai583)
